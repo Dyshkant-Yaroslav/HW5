@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rozetkaFilter>
+
+    <filterData>
+        <productType>Ноутбуки</productType>
+        <brand>Acer</brand>
+        <priceBounds>80000</priceBounds>
+    </filterData>
+
+    <filterData>
+        <productType>Мобильные телефоны</productType>
+        <brand>Meizu</brand>
+        <priceBounds>10000</priceBounds>
+    </filterData>
+
+    <filterData>
+        <productType>Телевизоры</productType>
+        <brand>LG</brand>
+        <priceBounds>1000000</priceBounds>
+    </filterData>
+
+    <filterData>
+        <productType>Велосипеды</productType>
+        <brand>Azimut</brand>
+        <priceBounds>10000</priceBounds>
+    </filterData>
+
+    <filterData>
+        <productType>Вентиляторы</productType>
+        <brand>Domotec</brand>
+        <priceBounds>2500</priceBounds>
+    </filterData>
+
+
+</rozetkaFilter>
